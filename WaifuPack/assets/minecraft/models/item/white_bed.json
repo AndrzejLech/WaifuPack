@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:item/template_bed",
+  "parent": "minecraft:item/generated",
   "textures": {
-    "particle": "minecraft:block/white_wool"
+    "layer0": "minecraft:custom/item/bed/white"
   }
 }
